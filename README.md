@@ -29,12 +29,14 @@ A terminal-based chat interface that connects with Google's Gemini (Generative A
 
 1) Clone this repository or download the Python script.
 
-2) Open the script and replace the placeholder strings "Your API key here" with:
-    Your Gemini API key from Google AI Studio
-    Your SerpAPI key from serpapi.com
+2) Open the script and replace the placeholder strings "Your API key here" with:  
+    - Your Gemini API key from Google AI Studio  
+    - Your SerpAPI key from serpapi.com
 
 3) Save the file.
 
 4) Run the script in your terminal:
-    **python Gemini_chat.py**
+   ```bash
+   python Gemini_chat.py
+   ```
     The chat will start, and a Chat_History.json file will be created after the first exit to store your conversation history.
