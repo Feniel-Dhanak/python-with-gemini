@@ -19,13 +19,13 @@ A terminal-based chat interface that connects with Google's Gemini (Generative A
 
 ## Requirements
 
-1) - Python 3.10 or higher
+1) Python 3.10 or higher
 2) Install dependencies using:
     ```bash
     pip install -r requirements.txt
     ```
     
-**## Setup**
+## Setup
 
 1) Clone this repository or download the Python script.
 
